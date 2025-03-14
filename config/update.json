@@ -1,0 +1,95 @@
+{
+"code": 1,
+  "message": "OK",
+  "data": {
+    "versionCode": 4871.0,
+    "apkUrl": "https://cdn.discordapp.com/attachments/1249065165291393086/1349750943377526946/image.png?ex=67d43d06&is=67d2eb86&hm=ae23f7e4879f2c10c1537ea0b1c19f23e8856e57b947c78c8868b3a174f2b7ba&",
+    "picUrl": "",
+    "updateInfo": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+    "langMap": {
+      "en_US": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "fr_FR": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "ko_KR": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "ja_JP": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "de_DE": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "it_IT": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "pl_PL": {
+         "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "pt_BR": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "pt_PT": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "th_TH": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "ru_RU": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "hi_IN": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "tr_TR": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "es_ES": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "in_ID": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      "vi_VN": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "zh_CN": {
+        "normal": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added.",
+        "forcible": "Ur version is old\n1.Download new version of Project Forge.\n2.maybe something cool was added."
+      },
+      "zh_TW": {
+        "normal": "Who uses this language\n1.you founded easter egg cuz using this language.\n2.anyways download new version.",
+        "forcible": "Who uses this language\n1.you founded easter egg cuz using this language.\n2.anyways download new version."
+      }
+    },
+    "forceUpdate": true,
+    "newVersionCode": 300000,
+    "smallerThanVersion": 7.0,
+    "forceUpdateMinVersionCode": 1.0,
+    "forceUpdateMaxVersionCode": 1.0,
+    "domainSwitchThresholdVersion": 1,
+    "checkOpenGLVersion2": 3999.0,
+    "needTobeForceUpdateVersions": [
+      "999999.6.3"
+    ],
+    "status": 1.0,
+    "url": "https://cdn.discordapp.com/attachments/1249065165291393086/1349750943377526946/image.png?ex=67d43d06&is=67d2eb86&hm=ae23f7e4879f2c10c1537ea0b1c19f23e8856e57b947c78c8868b3a174f2b7ba&"
+  }
+}

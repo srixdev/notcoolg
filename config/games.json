@@ -1,0 +1,106 @@
+[
+    {
+        "gameId": "g1001",
+        "gameTitle": "Simik is handsome",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter":  7,
+        "praiseNumber": 34,
+        "gameTypes": ["ACT", "ADV"]
+    },
+    {
+        "gameId": "g1002",
+        "gameTitle": "magic go rip",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ACT", "ADV"]
+    },
+    {
+        "gameId": "g1003",
+        "gameTitle": "private server by simik",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["SIM", "AVG"]
+    },
+    {
+        "gameId": "g1004",
+        "gameTitle": "blockman go testing was op",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["RP", "ACT"]
+    },
+    {
+        "gameId": "g1005",
+        "gameTitle": "dsc.gg/simikeu",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ADV"]
+    },
+    {
+        "gameId": "g1006",
+        "gameTitle": "Simikeuu on YTB",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ACT", "ADV"]
+    },
+    {
+        "gameId": "g1007",
+        "gameTitle": "Project Forge",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ACT", "ADV"]
+    },
+    {
+        "gameId": "g1008",
+        "gameTitle": "u cant join lol",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["RPG", "SIM"]
+    },
+    {
+        "gameId": "g1009",
+        "gameTitle": "t.me/SimikTG",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["PVP"]
+    },
+    {
+        "gameId": "g1010",
+        "gameTitle": "GalaxyPanel is other server of "mine"",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ACT", "ADV"]
+    },
+    {
+        "gameId": "g1011",
+        "gameTitle": "simik is cool guy",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ACT", "ADV"]
+    },
+    {
+        "gameId": "g1012",
+        "gameTitle": "why me no playing games :(",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["SIM"]
+    },
+    {
+        "gameId": "g1012",
+        "gameTitle": "Project Forge is for fun maded :)",
+        "gameCoverPic": "/static/games-images/simik.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["Adventure"]
+    }
+      ]
